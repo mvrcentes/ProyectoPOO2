@@ -1,0 +1,2 @@
+Cinepolis,200
+Adidas,100
